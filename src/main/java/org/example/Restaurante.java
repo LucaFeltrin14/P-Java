@@ -10,8 +10,8 @@ public class Restaurante {
     public String avaliacao;
     public ArrayList<String> cardapio = new ArrayList<>();
 
-    public void getNome(String nome){
-        return
+    public boolean getNome(String nome){
+        return true;
     }
 
 
