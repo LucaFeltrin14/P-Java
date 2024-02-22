@@ -9,6 +9,7 @@ public class Main {
         ArrayList<Restaurante> restaurantes = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
 
+
         while (true) {
             System.out.println("\nMenu Principal:");
             System.out.println("1. Cadastrar restaurante");
